@@ -1,6 +1,6 @@
 * branch-test
 + This is test repository
 ** branch
-+ vx.0 branches from master
-+ vx.x branches form vx.0
-+ vx.x.x branches from vx.x
++ vn.x.x branches from master (n: 1, 2, ...)
++ vn.m.x branches form vn.x (n, m: 1, 2, ...)
++ vn.m.l branches from vn.m.l (n, m, l: 1, 2, ...)
